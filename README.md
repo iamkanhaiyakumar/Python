@@ -39,6 +39,3 @@ This version includes the link to download Python, providing users with a direct
 Kanhaiya Kumar - [Contect](mailto:kanhaiyak0104gmail.com)
 
 Project Link: [https://github.com/iamkanhaiyakumar/Python-By-Kanhaiya](https://github.com/iamkanhaiyakumar/Python-By-Kanhaiya)
-```
-
-
