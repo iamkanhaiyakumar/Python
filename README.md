@@ -1,5 +1,4 @@
-# Python By Kanhaiya Kumar
-
+# Python 
 A collection of Python scripts and tutorials by Kanhaiya Kumar.
 
 ## Contents
