@@ -1,5 +1,4 @@
-# Python By Kanhaiya
-
+# Python 
 A collection of Python scripts and tutorials by Kanhaiya Kumar.
 
 ## Contents
@@ -36,6 +35,7 @@ This version includes the link to download Python, providing users with a direct
 
 ## Contact
 
-Kanhaiya Kumar - [Contect](mailto:kanhaiyak0104gmail.com)
+Kanhaiya Kumar - 
+[Contect](https://www.linkedin.com/in/kanhaiyakumar01)
 
-Project Link: [https://github.com/iamkanhaiyakumar/Python-By-Kanhaiya](https://github.com/iamkanhaiyakumar/Python-By-Kanhaiya)
+
