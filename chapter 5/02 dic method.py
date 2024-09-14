@@ -1,12 +1,18 @@
 marks = {
     "Kanhaiya": 10,
-    "K" : 100,
-    "Aman" :25
+    "K" : 10,
+    "Aman" :25,
+    11: "Ram"
 }
-print(marks.items())
-print(marks.keys())
-marks.update({"K": 99, "R":10})
-print(marks)
-print(marks.get("K"))
-print(marks.pop("K"))
-print(marks["K2"])
+# print(marks.items())
+
+# print(marks.keys())
+
+# marks.update({"K": 99, "R":10})
+# print(marks)
+
+print(marks.get("K")) # print run none
+print(marks["K"]) # print error
+# print(marks.pop("K"))
+ 
+

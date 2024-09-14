@@ -3,9 +3,9 @@
 d = {} # Empty Dictionary
 
 marks = {
-    "Kanhaiya": 10,
+    "Kanhaiya": 50,
     "K" : 100,
     "Aman" :25
 }
 print(marks, type(marks))
-print(marks["Aman"])
+print(marks["Aman"]) 
